@@ -24,13 +24,7 @@ session_start();
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="my_groups.php">My Groups</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="settings.php">Settings</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="logout.php">Log Out</a>
+                        <a href="/public/register.php" class="btn btn-primary me-2">Register</a>
                     </li>
                 </ul>
             </div>
